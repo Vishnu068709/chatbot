@@ -1,0 +1,35 @@
+{
+  "name": "live-chat-bot",
+  "version": "1.0.0",
+  "description": "A live chat bot application built with React.",
+  "main": "src/index.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "chat",
+    "bot",
+    "react",
+    "typescript"
+  ],
+  "author": "Vishnu",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "typescript": "^4.1.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.2"
+  },
+  "homepage": "http://yourhomepage.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/live-chat-bot.git"
+  }
+}
