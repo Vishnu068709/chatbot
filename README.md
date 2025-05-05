@@ -3,25 +3,6 @@
 ## Overview
 This project is a live chat bot application built using React and TypeScript. It provides a simple interface for users to send and receive messages in real-time.
 
-## Project Structure
-```
-live-chat-bot
-├── public
-│   ├── index.html          # Main HTML file
-├── src
-│   ├── components
-│   │   ├── ChatWindow.tsx  # Component for displaying chat messages
-│   │   └── MessageInput.tsx # Component for user input
-│   ├── App.tsx             # Main application component
-│   ├── index.tsx           # Entry point for the React application
-│   └── styles
-│       └── ChatStyles.css   # CSS styles for the chat interface
-├── package.json            # npm configuration file
-├── tsconfig.json           # TypeScript configuration file
-├── README.md               # Project documentation
-└── .gitignore              # Git ignore file
-```
-
 ## Getting Started
 
 ### Prerequisites
